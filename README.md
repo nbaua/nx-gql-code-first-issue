@@ -8,6 +8,6 @@ This repository is a trimmed down version of a Nest/Nx/Graphql project which tri
   and uncomment lines 16-21 or so to reproduce the issue.
 ```
 
-I've tried to be as animalistic as possible on this repository, apologies if I've missed something while reproducing this issue. Please participate in the discussion thread on the GitHub for more details here.
+I've tried to be as sleek as possible on this repository, apologies if I've missed something while reproducing this issue. Please participate in the discussion thread on the GitHub for more details here.
 
 [https://github.com/nrwl/nx/issues/3679#issuecomment-692445406](https://github.com/nrwl/nx/issues/3679#issuecomment-692445406)
