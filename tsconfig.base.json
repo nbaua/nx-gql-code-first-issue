@@ -1,0 +1,26 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "typeRoots": ["node_modules/@types"],
+    "lib": ["es2017", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@nx-gql-code-first-issue/api-interfaces": [
+        "libs/api-interfaces/src/index.ts"
+      ],
+      "@nx-gql-code-first-issue/data-helper": ["libs/data-helper/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
